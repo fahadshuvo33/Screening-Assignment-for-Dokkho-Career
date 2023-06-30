@@ -37,7 +37,7 @@ The analysis reveals interesting insights and findings:
 
 ## Usage
 To use this project, follow these steps:
-1. Clone the repository: `git clone https://gitlab.com/fahadshuvo/screening-assignment-for-dokkho-career.git`
+1. Clone the repository: `git clone https://github.com/fahadshuvo33/Screening-Assignment-for-Dokkho-Career.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter Notebook: `jupyter notebook`
 4. Open the `StudentPerformance.ipynb` file and execute the cells to perform the analysis.
